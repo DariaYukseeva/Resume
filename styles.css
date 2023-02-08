@@ -20,6 +20,11 @@ body {
   /* align-items: flex-start; */
 }
 
+.info img {
+max-width: 100%;
+height: auto;
+}
+
 .info-img {
   width: 50%;
   border-radius: 10px;
